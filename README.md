@@ -57,7 +57,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - [ASP.NET Core SDK](https://dotnet.microsoft.com/download) (version 3.1.426)
 - [Node.js](https://nodejs.org/) (LTS version)
 - [Angular CLI](https://cli.angular.io/) (global installation)
-
+- [SQL Server](https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019/)
+  
 2. Environment Setup
 **Clone the project from the repository:**
 ```bash
